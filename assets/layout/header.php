@@ -50,7 +50,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php" class="active">Home<br></a></li>
-          <li><a href="about.html">About</a></li>
+          <li><a href="about.php">About</a></li>
           <li><a href="courses.html">Courses</a></li>
           <li><a href="trainers.html">Trainers</a></li>
           <li><a href="events.html">Events</a></li>
@@ -72,7 +72,7 @@
               <li><a href="#">Dropdown 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
